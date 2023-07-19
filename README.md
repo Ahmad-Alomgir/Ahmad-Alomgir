@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmad-Alomgir
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C , C++ , Java
+- 👀 I’m interested in Programming, Gaming and Web Developing
+- 🌱 I’m currently learning C , C++ , Java , Python , Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
