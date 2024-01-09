@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmad-Alomgir
+- 👋 Hi, I’m @Ahmad-Alomgir \n
 I’m interested in Programming, Gaming and Web Developing.
 I’m currently learning C , C++ , Java , Python , Kotlin
 I’m looking to collaborate on ...
