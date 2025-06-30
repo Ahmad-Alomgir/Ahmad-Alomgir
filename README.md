@@ -17,8 +17,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahmad-Alomgir/Ahmad-Alomgir/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
