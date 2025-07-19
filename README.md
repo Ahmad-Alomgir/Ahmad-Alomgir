@@ -43,9 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ahmad-Alomgir/count.svg?"  />
-</div>
 
 ###
 
